@@ -1,0 +1,26 @@
+[09-Mar-2016 06:55:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/application/helpers/asset_helper.php on line 151
+[09-Mar-2016 06:55:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/application/helpers/asset_helper.php on line 151
+[09-Mar-2016 07:04:36 UTC] PHP Fatal error:  Class 'MY_Router' not found in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 196
+[21-Mar-2016 06:25:55 UTC] PHP Warning:  Unterminated comment starting line 51 in /home2/betaproj/public_html/sales_sys/application/config/constants.php on line 51
+[21-Mar-2016 06:30:05 UTC] PHP Fatal error:  Call to undefined function is_php() in /home2/betaproj/public_html/sales_sys/system/core/CodeIgniter.php on line 86
+[21-Mar-2016 06:30:05 UTC] PHP Warning:  Unterminated comment starting line 80 in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 80
+[21-Mar-2016 06:30:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 84
+[21-Mar-2016 06:30:05 UTC] PHP Warning:  Unterminated comment starting line 80 in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 80
+[21-Mar-2016 06:30:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 84
+[21-Mar-2016 06:30:05 UTC] PHP Warning:  Unterminated comment starting line 80 in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 80
+[21-Mar-2016 06:30:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 84
+[21-Mar-2016 06:30:05 UTC] PHP Warning:  Unterminated comment starting line 80 in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 80
+[21-Mar-2016 06:30:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 84
+[21-Mar-2016 06:30:05 UTC] PHP Warning:  Unterminated comment starting line 80 in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 80
+[21-Mar-2016 06:30:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 84
+[21-Mar-2016 06:30:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 328
+[21-Mar-2016 06:30:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 660
+[21-Mar-2016 06:30:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 660
+[21-Mar-2016 06:30:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 660
+[21-Mar-2016 06:30:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 660
+[21-Mar-2016 06:30:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/system/core/Common.php on line 660
+[30-Mar-2016 06:55:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/betaproj/public_html/sales_sys/application/views/pages/proposals/proposals_list.php on line 53
+[06-Apr-2016 08:14:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home2/betaproj/public_html/sales_sys/application/controllers/Sales.php on line 90
+[06-Apr-2016 09:02:50 UTC] PHP Fatal error:  Call to undefined function fetch() in /home2/betaproj/public_html/sales_sys/application/models/MdSales.php on line 31
+[06-Apr-2016 09:03:27 UTC] PHP Fatal error:  Call to undefined function fetchAll() in /home2/betaproj/public_html/sales_sys/application/models/MdSales.php on line 31
+[06-Apr-2016 09:03:30 UTC] PHP Fatal error:  Call to undefined function fetchAll() in /home2/betaproj/public_html/sales_sys/application/models/MdSales.php on line 31
